@@ -1,0 +1,157 @@
+{
+   "shares":[
+    {
+        "id":"1",
+        "user_name":"Adnan Bostancı",
+        "user_profile":"https://picsum.photos/id/5/0",
+        "user_shrared_image":"https://picsum.photos/id/5/0",
+        "user_shared_title":"Lorem  Ipsum",
+        "user_shared_context":"amanos dağlarındaki müezza yemeğini yiyordu",
+        "like":"2",
+        "comments":
+        [
+            {
+                "user_name":"Adnan Bostancı",
+                "user_profile":"https://picsum.photos/id/5/0",
+                "like":"1",
+                "user_comment":"bir kedi bu kadar güzel olabilir mi ?",
+                "answers":[
+                    {
+                        "user_name":"Bekir Güngör",
+                "user_profile":"https://picsum.photos/id/5/0",
+                "user_comment":"Haklsınız çok güzel"
+                    }
+                ]
+            }
+        ]
+        
+    },
+    {
+        "id":"2",
+        "user_name":"Bekir Güngör",
+        "user_profile":"https://picsum.photos/id/5/0",
+        "user_shrared_image":"https://picsum.photos/id/5/0",
+        "user_shared_title":"Lorem  Ipsum",
+        "user_shared_context":"amanos dağlarındaki müezza yemeğini yiyordu",
+        "like":"2",
+        "comments":
+        [
+            {
+                "user_name":"Adnan Bostancı",
+                "user_profile":"https://picsum.photos/id/5/0",
+                "like":"1",
+                "user_comment":"bir kedi bu kadar güzel olabilir mi ?",
+                "answers":[
+                    {
+                        "user_name":"Bekir Güngör",
+                "user_profile":"https://picsum.photos/id/5/0",
+                "user_comment":"Haklsınız çok güzel"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id":"3",
+        "user_name":"Tülay Takit",
+        "user_profile":"https://picsum.photos/id/5/0",
+        "user_shrared_image":"https://picsum.photos/id/5/0",
+        "user_shared_title":"Lorem  Ipsum",
+        "user_shared_context":"amanos dağlarındaki müezza yemeğini yiyordu",
+        "comments":
+        [
+            {
+                "user_name":"Adnan Bostancı",
+                "user_profile":"https://picsum.photos/id/5/0",
+                "like":"1",
+                "user_comment":"bir kedi bu kadar güzel olabilir mi ?",
+                "answers":[
+                    {
+                        "user_name":"Bekir Güngör",
+                "user_profile":"https://picsum.photos/id/5/0",
+                "user_comment":"Haklsınız çok güzel"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id":"4",
+        "user_name":"Şeyma Baltacı",
+        "user_profile":"https://picsum.photos/id/5/0",
+        "user_shrared_image":"https://picsum.photos/id/5/0",
+        "user_shared_title":"Lorem  Ipsum",
+        "user_shared_context":"amanos dağlarındaki müezza yemeğini yiyordu",
+        "like":"2",
+        "comments":
+        [
+            {
+                "user_name":"Adnan Bostancı",
+                "user_profile":"https://picsum.photos/id/5/0",
+                "like":"1",
+                "user_comment":"bir kedi bu kadar güzel olabilir mi ?",
+                "answers":[
+                    {
+                        "user_name":"Bekir Güngör",
+                "user_profile":"https://picsum.photos/id/5/0",
+                "user_comment":"Haklsınız çok güzel"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id":"5",
+        "user_name":"Deniz Arslan",
+        "user_profile":"https://picsum.photos/id/5/0",
+        "user_shrared_image":"https://picsum.photos/id/5/0",
+        "user_shared_title":"Lorem  Ipsum",
+        "user_shared_context":"amanos dağlarındaki müezza yemeğini yiyordu",
+        "like":"2",
+        "comments":
+        [
+            {
+                "user_name":"Adnan Bostancı",
+                "user_profile":"https://picsum.photos/id/5/0",
+                "like":"1",
+                "user_comment":"bir kedi bu kadar güzel olabilir mi ?",
+                "answers":[
+                    {
+                        "user_name":"Bekir Güngör",
+                "user_profile":"https://picsum.photos/id/5/0",
+                "user_comment":"Haklsınız çok güzel"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id":"6",
+        "user_name":"Latif Ünal",
+        "user_profile":"https://picsum.photos/id/5/0",
+        "user_shrared_image":"https://picsum.photos/id/5/0",
+        "user_shared_title":"Lorem  Ipsum",
+        "user_shared_context":"amanos dağlarındaki müezza yemeğini yiyordu",
+        "like":"2",
+        "comments":
+        [
+            {
+                "user_name":"Adnan Bostancı",
+                "user_profile":"https://picsum.photos/id/5/0",
+                "like":"1",
+                "user_comment":"bir kedi bu kadar güzel olabilir mi ?",
+                "answers":[
+                    {
+                        "user_name":"Bekir Güngör",
+                "user_profile":"https://picsum.photos/id/5/0",
+                "user_comment":"Haklsınız çok güzel"
+                    }
+                ]
+            }
+        ]
+    }
+   ],
+   "users":[
+
+   ]
+}

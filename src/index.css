@@ -1,0 +1,15 @@
+body{
+    overflow-x: hidden;
+}
+#comments{
+    overflow-y: scroll;
+    max-height: 55vh;
+}
+.icon i{
+    font-size:6rem;
+}
+#login-register-form{
+    width:34rem;
+    margin:4rem;
+
+}
